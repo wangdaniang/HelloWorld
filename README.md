@@ -1,4 +1,3 @@
 HelloWorld
 ========
-$mkdir ~/HelloWorld
-cd ~
+test
